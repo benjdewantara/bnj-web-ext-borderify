@@ -1,0 +1,16 @@
+{
+  "name": "bnj-web-ext-borderify",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/borderify.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "web-ext run"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
